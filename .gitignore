@@ -50,3 +50,25 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+#*.pdf
+*.dvi
+*.ps
+
+# Editor specific files
+*.swp
+*.swo
+*.bak
+
+# Configuration files
+*.latexmk
